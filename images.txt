@@ -1,2 +1,2 @@
 wisdomsky/cloudflared-web
-xiaoyahelper
+xiaoya-alist/xiaoyahelper
