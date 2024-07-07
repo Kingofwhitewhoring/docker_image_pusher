@@ -1,2 +1,1 @@
-wisdomsky/cloudflared-web
-xiaoya-alist/xiaoyahelper
+cloudflare/cloudflared
